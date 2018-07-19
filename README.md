@@ -1,4 +1,4 @@
-# Simple Booklist App
+# Simple Booklist App with Redux
 Simple app using React with Webpack to get it up and running quick and Redux for controlling state. Mostly made this to learn Redux.
 
 #### Install with Git
